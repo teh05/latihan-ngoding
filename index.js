@@ -67,3 +67,6 @@ list.add(3);
 list.print(); // Output: 1 2 3
 list.remove(2);
 list.print(); // Output: 1 3
+
+
+console.log("hello world ")
